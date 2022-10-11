@@ -1,0 +1,15 @@
+C:\Users\HP\Documents\Projects\Console Project\AbdulMalikApp\AbdulMalikApp\bin\Debug\net6.0\AbdulMalikApp.exe
+C:\Users\HP\Documents\Projects\Console Project\AbdulMalikApp\AbdulMalikApp\bin\Debug\net6.0\AbdulMalikApp.deps.json
+C:\Users\HP\Documents\Projects\Console Project\AbdulMalikApp\AbdulMalikApp\bin\Debug\net6.0\AbdulMalikApp.runtimeconfig.json
+C:\Users\HP\Documents\Projects\Console Project\AbdulMalikApp\AbdulMalikApp\bin\Debug\net6.0\AbdulMalikApp.dll
+C:\Users\HP\Documents\Projects\Console Project\AbdulMalikApp\AbdulMalikApp\bin\Debug\net6.0\AbdulMalikApp.pdb
+C:\Users\HP\Documents\Projects\Console Project\AbdulMalikApp\AbdulMalikApp\obj\Debug\net6.0\AbdulMalikApp.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\Projects\Console Project\AbdulMalikApp\AbdulMalikApp\obj\Debug\net6.0\AbdulMalikApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\Projects\Console Project\AbdulMalikApp\AbdulMalikApp\obj\Debug\net6.0\AbdulMalikApp.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\Projects\Console Project\AbdulMalikApp\AbdulMalikApp\obj\Debug\net6.0\AbdulMalikApp.AssemblyInfo.cs
+C:\Users\HP\Documents\Projects\Console Project\AbdulMalikApp\AbdulMalikApp\obj\Debug\net6.0\AbdulMalikApp.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Projects\Console Project\AbdulMalikApp\AbdulMalikApp\obj\Debug\net6.0\AbdulMalikApp.dll
+C:\Users\HP\Documents\Projects\Console Project\AbdulMalikApp\AbdulMalikApp\obj\Debug\net6.0\refint\AbdulMalikApp.dll
+C:\Users\HP\Documents\Projects\Console Project\AbdulMalikApp\AbdulMalikApp\obj\Debug\net6.0\AbdulMalikApp.pdb
+C:\Users\HP\Documents\Projects\Console Project\AbdulMalikApp\AbdulMalikApp\obj\Debug\net6.0\AbdulMalikApp.genruntimeconfig.cache
+C:\Users\HP\Documents\Projects\Console Project\AbdulMalikApp\AbdulMalikApp\obj\Debug\net6.0\ref\AbdulMalikApp.dll
