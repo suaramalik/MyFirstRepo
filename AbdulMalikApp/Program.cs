@@ -1,4 +1,9 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+//Write a program to add two Number
 
-Console.ReadKey();
+int a =0, b =0, sum = 0;
+
+sum = a + b;
+
+Console.WriteLine($"The sum of {a} + {b} = {sum}");
+
